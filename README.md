@@ -6,7 +6,7 @@
 
 <h3>Hello 👋</h3>
 <p align="center">
-  <img src="https://i.imgur.com/EzONuE8.png" />
+  <img src="https://i.imgur.com/xm3IMI9.png" />
 </p>
 <div align="center">
 <h2>I'm Camila (Camille) </h2>
