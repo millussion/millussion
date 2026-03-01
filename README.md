@@ -12,7 +12,7 @@
 <h2>I'm Camila (Camille) </h2>
 <p>
 <b>Software Developer | Web Programmer | UI Focus | Riwi Coder</b> <br><br>
-<i> I try to build your logic and ideas into modern software.</i>
+<i> I try to build your logic and ideas into a modern software.</i>
   
 
 <br>
